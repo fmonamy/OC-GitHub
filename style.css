@@ -1,0 +1,16 @@
+/* feuille de style pour le fichier HTML de l'exercice Git & GitHub - Partie 2 Activité */
+
+html {
+	font-family: 'Indie Flower', cursive;
+}
+
+body {
+	background-color: #fff;
+}
+
+h1 {
+	margin: 100px auto;
+	color: #000;
+	vertical-align: middle;
+	text-align: center;
+}
